@@ -1,0 +1,27 @@
+{
+  "name": "vue-resume",
+  "version": "1.0.0",
+  "description": "简历编辑器",
+  "main": "app.js",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "vue": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DoctypeMufan/vue-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoctypeMufan/vue-resume/issues"
+  },
+  "homepage": "https://github.com/DoctypeMufan/vue-resume#readme"
+}
